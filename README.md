@@ -1,2 +1,1 @@
-# doan
-123
+demo do an neuron
